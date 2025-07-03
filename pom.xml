@@ -28,9 +28,9 @@
     </scm>
     <properties>
         <java.version>17</java.version>
-        <sonar.projectKey>JenkinDemo2</sonar.projectKey>
+        <sonar.projectKey>SpringBootJenkin</sonar.projectKey>
         <sonar.host.url>http://localhost:9000</sonar.host.url>
-        <sonar.login>sqp_03577201cfbf3e0e6081e685164d974b5f7386fa</sonar.login>
+        <sonar.login>sqp_924eff1d2b89d35c4f875f450fbe9dcdeb5671f5</sonar.login>
     </properties>
     <dependencies>
         <dependency>
