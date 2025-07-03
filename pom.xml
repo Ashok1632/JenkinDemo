@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ashok</groupId>
-    <artifactId>JenkinDemo2</artifactId>
+    <artifactId>JenkinDemo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>JenkinDemo</name>
     <description>JenkinDemo</description>
